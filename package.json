@@ -2,7 +2,7 @@
   "name": "feathers-mongo-database",
   "version": "0.0.1",
   "description": "Create a MongoDB database service for FeathersJS.",
-  "main": "lib/feathers-mongo-database.js",
+  "main": "lib/feathers-mongo-databases.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/marshallswain/feathers-mongo-databases.git"
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/marshallswain/feathers-mongo-databases",
   "dependencies": {
+    "async":"~0.8.0"
   },
   "readmeFilename": "README.md"
 }
