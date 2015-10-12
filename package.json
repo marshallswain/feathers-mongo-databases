@@ -1,6 +1,6 @@
 {
   "name": "feathers-mongo-databases",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a MongoDB database service for FeathersJS.",
   "main": "lib/feathers-mongo-databases.js",
   "repository": {
@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/marshallswain/feathers-mongo-databases",
   "dependencies": {
-    "async":"~0.8.0"
+    "async": "~0.8.0"
   },
   "readmeFilename": "README.md"
 }
